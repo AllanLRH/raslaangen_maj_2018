@@ -30,6 +30,10 @@ Hent evt. vores rejseplan [her](https://github.com/AllanLRH/raslaangen_maj_2018/
 
 Vi sigter efter at være på Københavns hovedbanegård igen _søndag kl. 17:08_, hvilket betyder at vi skal slå lejr tæt på busstoppet som fører os hjem, eller stå tidligt op søndag.
 
+Som man kan se på skærmdumpet herunder, kan vi ikke kommer hjem søndag hvis vi først når frem sen eftermiddag, og hjemrejsen vil også tage længere tid:
+
+![](./hjemrejse_tidspunkter.png)
+
 Hjemrejsen tager ca. 4 timer.
 Vi køber biletten i Sverige, hvor man plejer at kunne betale med Visa.
 
