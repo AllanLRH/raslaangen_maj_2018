@@ -79,4 +79,6 @@ Du skal have plads til noget af fællesgrejet i din rygsæk. Fællesgrejet inklu
 
 Her er en pakkeliste til inspiration, klik på billedet for at hente den som PDF, eller [her](./raslaangen_2018_deltager.txt) for at se den som tekst.
 
+Når noget står med krusiv indikerer det, at det er en foreslået genstand, frem for en nødvendig genstand.
+
 [![](./raslaangen_2018_deltager.png)](https://github.com/AllanLRH/raslaangen_maj_2018/raw/master/raslaangen_2018_deltager.pdf)
