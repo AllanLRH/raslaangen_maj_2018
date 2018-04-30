@@ -21,7 +21,7 @@ Vi mødes på Københavns hovedbanegård _fredag d. 11. maj klokken 10:15 under 
 
 Rejsetiden er knap 3 timer, og på sj.se (Svenske Jernbaners hjemmeside) står biletten for en voksen i skrivende stund til 250–280 sek.
 
-Hent evt. vores rejseplan [her](./rejseplan_udrejse.pdf).
+Hent evt. vores rejseplan [her](https://github.com/AllanLRH/raslaangen_maj_2018/raw/master/rejseplan_udrejse.pdf).
 
 ![Kortet til vores rejseplan på udturen](./rejseplankort_ud.png)
 
@@ -33,7 +33,7 @@ Vi sigter efter at være på Københavns hovedbanegård igen søndag kl. 17:08, 
 Hjemrejsen tager ca. 4 timer.
 Vi køber biletten i Sverige, hvor man plejer at kunne betale med Visa.
 
-Hent evt. vores rejseplan [her](./rejseplan_hjemrejse.pdf).
+Hent evt. vores rejseplan [her](https://github.com/AllanLRH/raslaangen_maj_2018/raw/master/rejseplan_hjemrejse.pdf).
 
 ![Kortet til vores rejseplan på hjemturen](./rejseplankort_hjem.png)
 
