@@ -28,13 +28,52 @@ Hent evt. vores rejseplan [her](./rejseplan_udrejse.pdf).
 
 ### Hjemrejse
 
-Vi sigter efter at være på Københavns hovedbanegård igen søndag kl. 17:08.
+Vi sigter efter at være på Københavns hovedbanegård igen søndag kl. 17:08, hvilket betyder at vi skal slå lejr tæt på busstoppet som fører os hjem, eller stå tidligt op søndag.
 
 Hent evt. vores rejseplan [her](./rejseplan_hjemrejse.pdf).
 
 ![Kortet til vores rejseplan på hjemturen](./rejseplankort_hjem.png)
 
+## Praktisk på turen
 
+Vi satser på at sove i shelters, men tager også noget telt eller pressening med, for det tilfælde skyld at der er optaget i shelterne.
+Vi prøver at have nogle ting fælles, så vi ikke skal bære på mere end nødvendigt.
+
+### Mad
+
+Husk at det kan være rart at købe ind nogle stykker sammen.
+
+Da vi har fælles aftensmad, vil madtjanserne blive delt ud mellem deltagerne.
+
+* Vi har brændere og gryder med på turen, som man selvfølgelig kan låne hvis man har brug for det
+* Vi har fælles aftensmad, og står selv for frokost og morgenmad, men skal man spise fx havregrød om morgenen, er det oplagt at deles om en stor gryde, og mindske opvasken ;)
+* Jeg foreslår smørrebrød til frokost, for så er det jo oplagt at dele pålæg på kryds og tværs. Føtes og Kvickly plejer at have noget mere spændende vandreegnet pålæg.
+
+### Fællesgrej
+
+Du skal have plads til noget af fællesgrejet i din rygsæk. Fællesgrejet inkluderer:
+
+* Fællesmad
+* Brænder, gryder og brændstof
+* Telt(e) eller pressening, alt afhænig af vejrudsigten. Sheltersne kan nemlig være optagede.
+* Opvaskesæt
+* Stor, sammenfoldelig vanddunk til brug i lejren
+* Myggemiddel
+* Pulverkaffe og the
+* Salt og peber
+* Køkkenrulle
+* Shitkit: Toiletskovl, toiletpapir & alcohol-gel
+* Førstehjælpssæt
+* Evt. foldesav samt økse eller en stor kniv til brænde
+* Evt. bålgryde og grydeske
+* Evt. aeropress og kaffe
+* Evt. skærebræt
+
+## Personligt
+
+Her er en pakkeliste til inspiration, klik på billedet for at hente den som PDF, eller [her](./raslaangen_2018_deltager.txt) for at se den som tekst.
+
+[![](./raslaangen_2018_deltager.png)](./raslaangen_2018_deltager.png)
 
 
 
