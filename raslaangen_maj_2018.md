@@ -30,6 +30,8 @@ Hent evt. vores rejseplan [her](./rejseplan_udrejse.pdf).
 
 Vi sigter efter at være på Københavns hovedbanegård igen søndag kl. 17:08, hvilket betyder at vi skal slå lejr tæt på busstoppet som fører os hjem, eller stå tidligt op søndag.
 
+Hjemrejsen tager ca. 4 timer.
+
 Hent evt. vores rejseplan [her](./rejseplan_hjemrejse.pdf).
 
 ![Kortet til vores rejseplan på hjemturen](./rejseplankort_hjem.png)
@@ -69,7 +71,7 @@ Du skal have plads til noget af fællesgrejet i din rygsæk. Fællesgrejet inklu
 * Evt. aeropress og kaffe
 * Evt. skærebræt
 
-## Personligt
+## Personligt udstyr
 
 Her er en pakkeliste til inspiration, klik på billedet for at hente den som PDF, eller [her](./raslaangen_2018_deltager.txt) for at se den som tekst.
 
