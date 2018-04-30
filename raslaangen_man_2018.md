@@ -73,7 +73,7 @@ Du skal have plads til noget af fællesgrejet i din rygsæk. Fællesgrejet inklu
 
 Her er en pakkeliste til inspiration, klik på billedet for at hente den som PDF, eller [her](./raslaangen_2018_deltager.txt) for at se den som tekst.
 
-[![](./raslaangen_2018_deltager.png)](./raslaangen_2018_deltager.png)
+[![](./raslaangen_2018_deltager.png)](./raslaangen_2018_deltager.pdf)
 
 
 
